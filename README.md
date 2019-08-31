@@ -1,8 +1,8 @@
 # 华为方舟编译器源代码分析 
-# Ark Compiler Source Code Analysis
+###Ark Compiler Source Code Analysis
 
 ## 目的 Purpose
-写这篇方舟编译器（Ark Compiler）的目的是帮助大家更好的理解方舟编译器的内部结构和运行机制，为以后改进这款编译器提供帮助。
+写这篇方舟编译器（Ark Compiler）源代码分析的目的是帮助大家更好的理解方舟编译器的内部结构和运行机制，为以后改进这款编译器提供帮助。
 
 The Purpose of writing the ark compiler source code analysis it to help developers better understanding the architecture 
 and how it works, preparing for the future improvement. 
