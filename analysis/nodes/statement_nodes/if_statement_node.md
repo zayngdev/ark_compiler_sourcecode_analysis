@@ -1,0 +1,2 @@
+class IfStmtNode : public UnaryStmtNode {
+

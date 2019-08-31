@@ -1,0 +1,2 @@
+class RangegotoNode : public UnaryStmtNode {
+
