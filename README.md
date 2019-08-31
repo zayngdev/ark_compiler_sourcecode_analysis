@@ -21,6 +21,6 @@ make
 
 ## 目前开源进度
 
-![avatar](//Users/hfy/Desktop/ark_compiler_opensource_status.png)
+![Alt text](https://www.openarkcompiler.cn/assets/markdown/docs/img/FAQ-Q2.png)
 
 首次开源范围是编译器 IR（ Intermediate Representation）、RC（Reference Counting）和多语言设计思想等，用于与业界、学术界沟通交流。后续将陆续开源编译器前端、后端，支持其它语言（如 JavaScript）的编译等，当前部分Java语言特性和JVM虚拟机特性的支持未包括在本次开源代码中，包括：annotation、lambda表达式、泛型等。
